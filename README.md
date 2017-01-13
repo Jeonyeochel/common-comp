@@ -1,1 +1,1 @@
-# myRepository2
+# Common component
